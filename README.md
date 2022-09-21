@@ -6,6 +6,8 @@
 * I - Interface Segregation Principle 
 * D - Dependency Inversion
 ***
+
+
 ```
 1 - Single Responsibility Principle
 Oluşturduğumuz sınıflara tekil sorumluklar yüklemek gerekir. Tüm yapıyı tek
